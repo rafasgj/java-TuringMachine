@@ -1,2 +1,5 @@
 # output directory
 bin/
+
+# Temporary files
+*.swp
